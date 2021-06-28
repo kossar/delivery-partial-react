@@ -1,6 +1,6 @@
 ## School project in Javascript subject
 
-# Backend is from Distributed systems and ASP.NET subject project
+# Backend is from Distributed systems and ASP.NET subjects shared project
 ## Backend git link: https://github.com/kossar/delivery
 
 Homework description:
