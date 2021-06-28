@@ -1,3 +1,31 @@
+## School project in Javascript subject
+
+# Backend is from Distributed systems and ASP.NET subject project
+## Backend git link: https://github.com/kossar/delivery
+
+Homework description:
+
+# Homework 05 - Frontend client 3 against your own backend api
+
+Framework: React with typescript.
+
+
+Code in subdirectory in the git repository named ***icd0006-2020s***  
+
+## Leg 01
+***Deadline 2021-05-12 23:59***
+
+Write in React the js client against your own backend.  
+Implement authorization (register/login/logout) and minimal 3 api endpoint in full usable UI/UX.  
+If your UI need to change according to roles - unpack the jwt and get the role claims from it.  
+
+If you do not participate in Distributed course - please contact the teacher for course provided backend.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
